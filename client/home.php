@@ -70,7 +70,7 @@ require_once('inc/header.php');
                                 "</td><td>" + 
                                 x[i].password +
                                 "</td><td>" + 
-                                      "<a class='updateBtn' href='javascript:void(0)' data-id=" +x[i].id + "><button>Update</button></a>"+
+                                    //   "<a class='updateBtn' href='javascript:void(0)' data-id=" +x[i].id + "><button>Update</button></a>"+
                                      "<a class='deleteBtn' href='javascript:void(0)' data-id=" +x[i].id + "><button>Delete</button></a>"+
                                 "</td></tr>";
                                 
